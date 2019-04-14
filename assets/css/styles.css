@@ -73,6 +73,25 @@ nav{
 
 /*----------ABOUT PAGE END ----------*/
 
+
+/*---------CONFERENCE PAGE START ------*/
+
+#workshops1 button{
+    margin-bottom: 5px;
+    border-color: black;
+    font-weight: bold;
+    
+    white-space:normal !important;
+    word-wrap: break-word;
+}
+
+#workshops1 .card-body{
+    margin-bottom: -0px;
+}
+
+/*---------CONFERENCE PAGE end ------*/
+
+
 /*----------HLS PAGE START ----------*/
 
 #header-background {
