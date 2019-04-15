@@ -77,16 +77,17 @@ nav{
 /*---------CONFERENCE PAGE START ------*/
 
 #workshops1 button{
-    margin-bottom: 5px;
-    border-color: black;
-    font-weight: bold;
-    
-    white-space:normal !important;
-    word-wrap: break-word;
+  margin-bottom: 1rem;
+  border-color: hsl(0, 0%, 50%);
+  font-weight: bold;
+  white-space: normal !important;
+  word-wrap: break-word;
+  padding: 1rem;
 }
 
 #workshops1 .card-body{
-    margin-bottom: -0px;
+    /* margin-bottom: -0px; */
+    margin-bottom: 1rem;
 }
 
 /*---------CONFERENCE PAGE end ------*/
